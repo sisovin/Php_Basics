@@ -1,3 +1,6 @@
+<!-- /************************
+* PHP code to print Hello World
+***************************/ -->
 <?php
 echo "<h1>Hello World</h1>";
 print "<hr/>"; // returns 1

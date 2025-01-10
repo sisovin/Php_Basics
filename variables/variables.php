@@ -1,3 +1,6 @@
+<!-- /************************
+* PHP code to declare variables
+***************************/ -->
 <?php
 $name = "Mike";    // String
 $age = 30;         // Integer
